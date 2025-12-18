@@ -1,0 +1,9 @@
+architecture: "Phi3ForCausalLM"
+arch_config:
+  model_name: "model"
+  layers_name: "layers"
+  module_names:
+    - "self_attn.qkv_proj"
+    - "self_attn.o_proj"
+    - "mlp.gate_up_proj"
+    - "mlp.down_proj"
