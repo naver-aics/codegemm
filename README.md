@@ -1,4 +1,4 @@
-# CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs
+# CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs (NeurIPS 2025)
 
 This repository provides an official implementation of **CodeGEMM**.
 
