@@ -1,6 +1,6 @@
 # CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs (NeurIPS 2025)
 
-This repository provides an official implementation of **CodeGEMM**.
+This repository provides an official implementation of [CodeGEMM](https://arxiv.org/abs/2512.17970).
 
 > **Note**: This codebase is based on the [AQLM repository](https://github.com/Vahe1994/AQLM/tree/main), which provides the official PyTorch implementation for Extreme Compression of Large Language Models via Additive Quantization.
 
